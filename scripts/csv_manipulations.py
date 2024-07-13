@@ -14,4 +14,3 @@ def write_to_csv(filename, data):
     except Exception as e:
         print(f'An error occurred while writing to CSV: {e}')
 
-# Additional functions for reading and manipulating CSV files
